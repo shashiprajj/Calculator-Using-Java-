@@ -5,7 +5,7 @@ Calculator || Java
  ====== ***Java Calculator Project*** =======
 This simple Java Project help in small calculations.
 
-This Project can perform **Addition [+]** , **Subtraction [-]**, **Multiplication [*]**, **Division [/]**
+This Project can perform **Addition [+]** , **Subtraction [-]**, **Multiplication [*]** and **Division [/]**
 
 ***Here is an Example of Multiplication***
 
